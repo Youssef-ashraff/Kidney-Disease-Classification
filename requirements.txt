@@ -2,7 +2,8 @@ tensorflow==2.12.0
 pandas 
 dvc
 mlflow==2.2.2
-notebook
+pywinpty==2.0.10
+notebook==6.4.12
 numpy
 matplotlib
 seaborn
